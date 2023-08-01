@@ -17,3 +17,11 @@ In this challenge, knowledge of Python and unsupervised learning was used to pre
 (Resources/crypto_market_data.csv)
 
 ### Outputs
+
+![visual comparison](images/composite_plot.png)
+
+#### Answer the following question: 
+
+  * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+
+  * **Answer:** Using fewer features in K-Means clustering saves time, aids visualization, and reduces noise. However, in this case in specific, it may have led to information loss and lower cluster quality.
