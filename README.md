@@ -18,7 +18,7 @@ In this challenge, knowledge of Python and unsupervised learning was used to pre
 
 ### Outputs
 
-![visual comparison](images/composite_plot.png)
+![visual comparison](Outputs/composite_plot.png)
 
 #### Answer the following question: 
 
